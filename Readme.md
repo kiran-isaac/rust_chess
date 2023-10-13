@@ -1,0 +1,2 @@
+# Rust Chess
+A simple chess game written in rust. This was written as a simple project to try and learn rust. I always do this project when trying to learn a new language. My Java, JavaScript, Java and haskell implementations are also on my profile.
